@@ -16,7 +16,8 @@
  What is the result?
  */
 // Type the code below this line
-
+//var myName: String
+//print(myName)
 
 /*:
  
@@ -38,8 +39,9 @@
  
  */
 // Type the second code example below...
-
-
+var yourName: String?
+print(yourName)
+//The result shown is different as in the first block as in the first block it says myName is not initialized, meaning that there is nothing assigned to the string for it to print, however now it says that the value of the stirng is nil, which is something that can not be printed.
 /*:
  
  Run the playground again.
