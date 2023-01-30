@@ -15,8 +15,14 @@
  
  */
 // Type the code below this line...
-
-
+var x: String?
+var y: String? = ""
+if x == y {
+    print("variables are equal")
+} else {
+    print("variables NOT equal")
+}
+//An empty string gives the value of nothing, while a string with no value gives the value of nil, and nothing and nil are different
 /*:
  
  Is an empty string the same as a *nil* value?
