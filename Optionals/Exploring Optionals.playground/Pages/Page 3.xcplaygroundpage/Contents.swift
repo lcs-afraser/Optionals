@@ -19,7 +19,7 @@ if x == y {
 } else {
     print("variables NOT equal")
 }
-
+//This shows how nil and 0 are not equal
 /*:
  
  After you try this, change the code on line 16 to:
