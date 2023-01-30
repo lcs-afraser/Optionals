@@ -10,7 +10,11 @@
  ![kc3](kc3.png)
  
  */
+//the answer will be nil
 // Type the code below this line...
+var x: Int?
+var y: Int?
 
+x! * y!
 
 //: [Next](@next)
