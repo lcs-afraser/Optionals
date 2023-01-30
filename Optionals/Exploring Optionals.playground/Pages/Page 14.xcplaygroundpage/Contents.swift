@@ -12,7 +12,7 @@
  */
 //The answer will be cannot compute
 // Type the code below this line...
-var x: Int?
+var x: Int? = 3
 var y: Int?
 
 if let notNilX = x, let notNilY=y {
